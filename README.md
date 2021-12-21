@@ -51,9 +51,7 @@
   </a>
 </div>
 
-
-
-  
+ 
   - 🎬 Gosto de fazer lives jogando e desenhando, falando das coisas que estou estudando como NFTs e criptomoedas, entre outros assuntos.
   - 🎮 Amo jogar, seja console, PC, jogos de tabuleiro ou de mesa.
   - 😎 Sou a AgnaTrine em qualquer plataforma de jogos 💜
