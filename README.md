@@ -1,9 +1,9 @@
 ### Oi, eu sou a Valéria, desenvolvedora front-end, aspirante a ilustradora, investidora e gamer 👋
 
 - 🔭 Atualmente trabalho como desenvolvedora front-end React na Sólides ❤💛💚💙
-- 🌱 Estou estudando sobre criptomoedas, blockchain e NFTs.
+- 🌱 Estou estudando sobre investimentos, excel, design.
 - 😄 Pronomes: ela/dela.
-- ⚡ Fato engraçado: faço lives de assuntos variados: jogos e ilustração, por enquanto 😁
+- ⚡ Fato divertido: tenho duas cachorrinhas yorks, raramente faço lives jogando alguma coisa na Twitch 😁
 
 <div align="center">
   <a href="https://github.com/valeriatlcarvalho">
@@ -52,7 +52,7 @@
 </div>
 
  
-  - 🎬 Gosto de fazer lives jogando e desenhando, falando das coisas que estou estudando como NFTs e criptomoedas, entre outros assuntos.
-  - 🎮 Amo jogar, seja console, PC, jogos de tabuleiro ou de mesa.
+  - 🎬 Gosto de fazer lives jogando e desenhando, falando das coisas que estou estudando, entre outros assuntos.
+  - 🎮 Amo jogar (seja console, PC, jogos de tabuleiro ou de mesa).
   - 😎 Sou a AgnaTrine em qualquer plataforma de jogos 💜
   
