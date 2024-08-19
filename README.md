@@ -1,9 +1,9 @@
 ### Oi, eu sou a Valéria, desenvolvedora front-end, aspirante a ilustradora, investidora e gamer 👋
 
-- 🔭 Atualmente trabalho como desenvolvedora front-end React na Sólides ❤💛💚💙
+- 🔭 Atualmente não trabalho
 - 🌱 Estou estudando sobre investimentos, excel, design.
 - 😄 Pronomes: ela/dela.
-- ⚡ Fato divertido: tenho duas cachorrinhas yorks, raramente faço lives jogando alguma coisa na Twitch 😁
+- ⚡ Fato divertido: tenho duas cachorrinhas yorks, faço lives jogando alguma coisa nas plataformas YouTube/Twitch 😁
 
 <div align="center">
   <a href="https://github.com/valeriatlcarvalho">
@@ -37,17 +37,14 @@
   <a href = "mailto:agnatrine@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://discord.com/invite/2SwMEuQbCG" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" />
-  </a>
- 	<a href="https://www.twitch.tv/agnatrine" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
-  </a>
   <a href="https://www.instagram.com/agnatrine" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.youtube.com/channel/UCriuQkVstUc7IKCSJ-O5y0A" target="_blank">
+  <a href="https://www.youtube.com/@agnatrine" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" />
+  </a>
+ 	<a href="https://www.twitch.tv/agnatrine" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" />
   </a>
 </div>
 
