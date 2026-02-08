@@ -6,9 +6,11 @@
 - ⚡ Fato divertido: tenho duas cachorrinhas yorks, faço lives jogando e conversando nas plataformas YouTube/Twitch/Kick @agnatrine 😁
 
 <div align="center">
-  <a href="https://github.com/valeriatlcarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeriatlcarvalho&show_icons=true&theme=panda&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriatlcarvalho&layout=compact&langs_count=6&theme=dracula" />
+  <a href="https://github.com/valeriatlcarvalho">Meus repositórios
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valeriatlcarvalho&show_icons=true&theme=panda&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriatlcarvalho&layout=compact&langs_count=6&theme=dracula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriatlcarvalho&layout=compact&langs_count=6&theme=dracula" /> -->
+  />
 </div>
 
 ## Minha atividade
