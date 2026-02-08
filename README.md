@@ -1,9 +1,9 @@
-### Oi, eu sou a Valéria, desenvolvedora front-end, aspirante a ilustradora, investidora e gamer 👋
+### Oi, eu sou a Valéria, desenvolvedora front-end, investidora, criadora de conteúdo e gamer 👋
 
 - 🔭 Atualmente não trabalho
-- 🌱 Estou estudando sobre investimentos, excel, design.
+- 🌱 Estou estudando sobre datamining de jogos e IA.
 - 😄 Pronomes: ela/dela.
-- ⚡ Fato divertido: tenho duas cachorrinhas yorks, faço lives jogando alguma coisa nas plataformas YouTube/Twitch 😁
+- ⚡ Fato divertido: tenho duas cachorrinhas yorks, faço lives jogando e conversando nas plataformas YouTube/Twitch/Kick @agnatrine 😁
 
 <div align="center">
   <a href="https://github.com/valeriatlcarvalho">
@@ -11,12 +11,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeriatlcarvalho&layout=compact&langs_count=6&theme=dracula" />
 </div>
 
-##
+## Minha atividade
+
+![Snake animation](https://github.com/valeriatlcarvalho/valeriatlcarvalho/blob/output/github-contribution-grid-snake.svg)
+
+
+## Outras plataformas de desenvolvimento
 
 <div>
-  <a href = "mailto:valeriatlcarvalhodev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
-  </a>
   <a href="https://www.linkedin.com/in/valeriatlcarvalho" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
@@ -28,9 +30,6 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/valeriatlcarvalho/valeriatlcarvalho/blob/output/github-contribution-grid-snake.svg)
-
-  
 ## Quer descobrir o que eu faço nas horas vagas? 😅
   
 <div>
@@ -50,6 +49,6 @@
 
  
   - 🎬 Gosto de fazer lives jogando e desenhando, falando das coisas que estou estudando, entre outros assuntos.
-  - 🎮 Amo jogar (seja console, PC, jogos de tabuleiro ou de mesa).
-  - 😎 Sou a AgnaTrine em qualquer plataforma de jogos 💜
+  - 🎮 Amo jogar (seja console, PC, jogos de tabuleiro ou quebra-cabeças).
+  - 😎 Sou AgnaTRINE em qualquer plataforma de jogos 💜
   
